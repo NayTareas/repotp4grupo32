@@ -25,3 +25,4 @@ public class Cliente {
         System.out.println("Cliente: Nombre=" + nombre + ", Apellido=" + apellido + ", DNI=" + dni + ", Teléfono=" + telefono + ", Dirección=" + direccion + ", Email=" + email);
     }
 }
+

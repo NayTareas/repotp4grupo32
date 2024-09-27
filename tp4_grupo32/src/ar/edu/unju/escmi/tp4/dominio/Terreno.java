@@ -23,3 +23,4 @@ public class Terreno extends Inmueble {
         System.out.println("Terreno: Código=" + codigo + ", Latitud=" + latitud + ", Longitud=" + longitud + ", Superficie=" + superficie + "m², Precio=" + precio + ", Disponible=" + disponibilidad);
     }
 }
+

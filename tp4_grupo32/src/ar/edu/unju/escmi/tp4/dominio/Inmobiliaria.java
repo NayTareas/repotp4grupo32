@@ -4,6 +4,7 @@ public class Inmobiliaria {
     private String nombre;
     private String telefono;
     private String direccion;
+    
 
     public Inmobiliaria(String nombre, String telefono, String direccion) {
         this.nombre = nombre;

@@ -27,3 +27,4 @@ public class ContratoAlquiler {
         System.out.println("Contrato Alquiler: Duración=" + duracion + " meses, Precio=" + precio + ", Gastos Inmobiliaria=" + gastosInmobiliaria + ", Cliente=" + cliente.getDni() + ", Vivienda=" + vivienda.getCodigo() + ", Fecha=" + fechaContrato);
     }
 }
+

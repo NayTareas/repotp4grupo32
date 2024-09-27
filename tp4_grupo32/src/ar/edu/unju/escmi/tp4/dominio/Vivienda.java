@@ -21,3 +21,4 @@ public class Vivienda extends Inmueble {
         System.out.println("Vivienda: Código=" + codigo + ", Dirección=" + direccion + ", Habitaciones=" + habitaciones + ", Precio alquiler=" + precioAlquiler + ", Disponible=" + disponibilidad);
     }
 }
+
