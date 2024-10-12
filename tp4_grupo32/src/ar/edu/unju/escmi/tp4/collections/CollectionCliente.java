@@ -4,7 +4,7 @@ import ar.edu.unju.escmi.tp4.dominio.Cliente;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//collection
 public class CollectionCliente {
     public static List<Cliente> clientes = new ArrayList<>();
 
