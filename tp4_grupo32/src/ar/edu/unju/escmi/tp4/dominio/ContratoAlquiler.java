@@ -9,7 +9,7 @@ public class ContratoAlquiler {
     private Cliente cliente;
     private Vivienda vivienda;
     private LocalDate fechaContrato;
-
+//contrato Alquiler
     public ContratoAlquiler(int duracion, double precio, double gastosInmobiliaria, Cliente cliente, Vivienda vivienda) {
         this.duracion = duracion;
         this.precio = precio;
